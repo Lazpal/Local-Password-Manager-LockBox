@@ -32,13 +32,14 @@ If you like what I do, consider donating:
 > (Μπορείς να προσθέσεις screenshots εδώ)
 
 ---
-
+**⚠️ Disclaimer:** Οι κωδικοί αποθηκεύονται μόνο στη συσκευή και δεν μεταφέρονται σε κανέναν server. Ο χρήστης είναι υπεύθυνος για τη διαχείρισή τους.
+---
 ### ✍️ Δημιουργός
 
 - Lazpal
 - GitHub: [@yourusername](https://github.com/yourusername)
 
-This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
+-This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
 ----
 © 2025 LAZPAL
 ----
@@ -46,4 +47,3 @@ This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) f
 author 'lazpal'
 ---
 
-**⚠️ Disclaimer:** Οι κωδικοί αποθηκεύονται μόνο στη συσκευή και δεν μεταφέρονται σε κανέναν server. Ο χρήστης είναι υπεύθυνος για τη διαχείρισή τους.
