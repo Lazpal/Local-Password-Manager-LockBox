@@ -2,6 +2,9 @@
 
 Αυτή η εφαρμογή είναι ένας **τοπικός διαχειριστής κωδικών**, κατασκευασμένος με το **MIT App Inventor**, που επιτρέπει στον χρήστη να αποθηκεύει με ασφάλεια τους κωδικούς του στη συσκευή του.
 ---
+### 📲 Κατέβασε την εφαρμογή (.aia)
+[![Download](https://img.shields.io/badge/Download-.aia-blue?style=for-the-badge&logo=android)](https://github.com/Lazpal/Local-Password-Manager-LockBox/blob/main/LockBox.apk)
+---
 ## 📸 Screenshots
  <p align="center">
   <img src="Screenshot/Screenshot_20250511_223829.jpg" width="200"/>
