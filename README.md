@@ -37,7 +37,7 @@ If you like what I do, consider donating:
 ### ✍️ Δημιουργός
 
 - Lazpal
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@Lazpal](https://github.com/Lazpal)
 
 -This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
 -© 2025 LAZPAL
