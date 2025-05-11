@@ -20,8 +20,8 @@
 - ActivityStarter (για εξωτερικά links όπως το PayPal)
 - Χωρίς internet, ελαφρύ και ασφαλές
 
-## 🌐 PayPal Donate
-# ☕ Support My Work
+# 🌐 PayPal Donate
+## ☕ Support My Work
 
 If you like what I do, consider donating:
 
