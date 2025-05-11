@@ -5,6 +5,11 @@
 ### 📲 Κατέβασε την εφαρμογή (.apk)
 [![Download](https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android)](https://github.com/Lazpal/Local-Password-Manager-LockBox/blob/main/LockBox.apk)
 ---
+## 📱 Απαιτήσεις Συστήματος
+
+- Λειτουργικό σύστημα: Android 5.0 (Lollipop) ή νεότερο
+- Χώρος αποθήκευσης: 10 MB διαθέσιμα
+---
 ## 📸 Screenshots
  <p align="center">
   <img src="Screenshot/Screenshot_20250511_223829.jpg" width="200"/>
@@ -44,7 +49,12 @@
 
 - Lazpal
 - GitHub: [@Lazpal](https://github.com/Lazpal)
+---
+## 📄 Άδεια Χρήσης
 
--This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
+Αυτή η εφαρμογή διανέμεται υπό την άδεια LAZPAL. Δείτε το αρχείο [LICENSE](LICENSE) για περισσότερες πληροφορίες.
+
+This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
+---
 -© 2025 LAZPAL
 -author 'lazpal'
