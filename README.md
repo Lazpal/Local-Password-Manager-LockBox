@@ -40,10 +40,5 @@ If you like what I do, consider donating:
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 -This project is licensed under the LAZPAL License - see the [LICENSE](LICENSE) file for details.
-----
-© 2025 LAZPAL
-----
-##
-author 'lazpal'
----
-
+-© 2025 LAZPAL
+-author 'lazpal'
